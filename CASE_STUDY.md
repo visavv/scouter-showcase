@@ -1,10 +1,10 @@
-# VISAMEDIA: development case study
+# Scouter: development case study
 
 ## Goal
 
 Build a practical companion for a livestream editor: discover worthwhile moments, keep their context, and arrive in DaVinci Resolve with editable selections instead of reviewing an entire raw stream every time.
 
-The work extends an existing clip-finder into a focused VISAMEDIA workflow. Development is iterative and AI-assisted, with the editor's actual browsing and editing needs driving the changes.
+The work extends an existing clip-finder into a focused Scouter workflow. Development is iterative and AI-assisted, with the editor's actual browsing and editing needs driving the changes.
 
 ## Product decisions
 
@@ -61,4 +61,4 @@ These checks establish specific behaviors. They do not establish a measured prod
 
 ## Portfolio summary
 
-**VISAMEDIA — AI-assisted livestream discovery and editing companion.** A Python terminal application combining multi-source VOD browsing, reusable editorial profiles, versioned transcript analysis, marker EDL export and editable DaVinci Resolve selections. The project emphasizes practical UI iteration, reproducible experiments, explicit failure handling and preservation of source-media editability.
+**Scouter — AI-assisted livestream discovery and editing companion.** A Python terminal application combining multi-source VOD browsing, reusable editorial profiles, versioned transcript analysis, marker EDL export and editable DaVinci Resolve selections. The project emphasizes practical UI iteration, reproducible experiments, explicit failure handling and preservation of source-media editability.

@@ -1,18 +1,18 @@
-# VISAMEDIA
+# Scouter
 
 ### From hours of livestream footage to editable selections in DaVinci Resolve.
 
-VISAMEDIA is a personal desktop companion for finding conversations, reactions and highlight candidates in long livestreams. It combines a keyboard-driven terminal interface, configurable AI analysis and an editing workflow that keeps clips linked to their original source footage.
+Scouter is a personal desktop companion for finding conversations, reactions and highlight candidates in long livestreams. It combines a keyboard-driven terminal interface, configurable AI analysis and an editing workflow that keeps clips linked to their original source footage.
 
 **Public project showcase · Active development · Application source code is private**
 
-![VISAMEDIA channel browser with saved Twitch channels](assets/channel-profiles.png)
+![Scouter channel browser with saved Twitch channels](assets/channel-profiles.png)
 
 ## The problem
 
 A useful moment in a livestream can be a thirty-second reaction or a complete ten-minute discussion. Finding it manually means searching through hours of footage, keeping track of timestamps and rebuilding the same editing setup for each stream.
 
-VISAMEDIA lets the editor describe the kind of video they want, browse recent streams, reuse a channel's preferences and turn candidate moments into markers or editable timeline selections.
+Scouter lets the editor describe the kind of video they want, browse recent streams, reuse a channel's preferences and turn candidate moments into markers or editable timeline selections.
 
 ## The workflow
 
@@ -47,7 +47,7 @@ flowchart LR
 | Editable effects | Reviewed face zoom suggestions, local motion tracking, Fusion keyframes and separate Effects timeline versions |
 | Format-specific layouts | Independent Videos and Shorts native layout snapshots and channel preferences |
 
-![VISAMEDIA Twitch VOD browser](assets/vod-browser.png)
+![Scouter Twitch VOD browser](assets/vod-browser.png)
 
 *Development screenshots from the working application. Labels and navigation continue to evolve. Channel names and stream titles are examples of browsing public metadata; they do not imply affiliation.*
 
